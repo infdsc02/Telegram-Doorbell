@@ -16,6 +16,12 @@ El timbre utilizado es el Siemens JSJS-315. Las dos principales carácteristicas
 Las siguientes fotografías muestran el montaje del hardware.
 ![Alt text](https://github.com/infdsc02/Telegram-Doorbell/blob/main/assemble%20images/img1.jpg?raw=true)
 
+![Alt text](https://github.com/infdsc02/Telegram-Doorbell/blob/main/assemble%20images/img2.jpg?raw=true)
+
+![Alt text](https://github.com/infdsc02/Telegram-Doorbell/blob/main/assemble%20images/img3.jpg?raw=true)
+
+![Alt text](https://github.com/infdsc02/Telegram-Doorbell/blob/main/assemble%20images/img4.jpg?raw=true)
+
 
 
 ## Puesta en marcha
