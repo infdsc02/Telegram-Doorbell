@@ -8,7 +8,7 @@ El timbre utilizado es el Siemens JSJS-315. Las dos principales carácteristicas
 ## Hardware list:
 * Dos breadboard
 * Una placa de desarrollo con el chip ESP32
-* Un interruptor
+* Un switch
 * Un led rojo y otro verde
 * Tres resistencias de 220 Ohm
 
